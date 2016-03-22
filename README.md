@@ -1,6 +1,6 @@
 #Simple Twitter Bot
 -----
-Node.js twitter bot to respond to certain words on twitter.
+Node.js twitter bot to respond to any words you'd like.
 
 ###Installation
 
