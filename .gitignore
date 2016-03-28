@@ -1,2 +1,5 @@
+config.js
+*.db
 node_modules
-.log
+*.log
+prices.json
