@@ -10,10 +10,10 @@
 
 // These settings are for account <your account name>
 module.exports = {
-	CONSUMER_KEY: 'CAeV9ddvrBiSYgQlYwpUcolMx',
-	CONSUMER_SECRET: 'tafz90B68unIc2IQY4L5MAWZqxOLeFoUxlpUUDZkX2Y7D2AsfF',
-	ACCESS_TOKEN_KEY: '712142165271445504-LE9Jt2b9HUEcizvdq2rutFpIve8GnxN',
-	ACCESS_TOKEN_SECRET: 'TjfqrLCv24X1f8TkLPnSTJGKoInwqZdkrGBtUhSoZ8pGw',
+	CONSUMER_KEY: '',
+	CONSUMER_SECRET: '',
+	ACCESS_TOKEN_KEY: '',
+	ACCESS_TOKEN_SECRET: '',
 	RESPOND_TO: 'indxio #bot',
 	URL: 'http://theindex.io/api/',
 	TAGS: [ 
